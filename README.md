@@ -1,4 +1,4 @@
-# quarkus_template
+# Quarkus / Gradle Template
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
